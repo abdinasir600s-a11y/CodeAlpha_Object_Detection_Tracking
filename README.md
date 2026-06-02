@@ -276,6 +276,7 @@ https://github.com/abdinasir600s-a11y/CodeAlpha_Object_Detection_Tracking
 * Video detection summary counts detections across processed frames, not unique real-world objects.
 * Tracking IDs may increase when objects move, disappear, reappear, overlap, or leave and re-enter the frame.
 * If browser video playback has codec issues, use the download button to download and view the processed video.
+* Source files are stored with real multiline formatting for clear GitHub RAW viewing.
 
 ## Limitations
 
